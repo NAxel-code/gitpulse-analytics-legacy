@@ -1,5 +1,10 @@
 # ⚡ GitPulse Analytics
 
+> [!IMPORTANT]
+> **PROYEK TELAH DIMIGRASI & DIARSIPKAN**: Prototipe awal ini telah sepenuhnya ditingkatkan dan direfaktor ke arsitektur multi-tier siap produksi dengan **Docker Compose, PostgreSQL 16, dan FastAPI persistent caching**.
+>
+> 👉 **Repositori Aktif & Versi Utama**: [https://github.com/NAxel-code/gitpulse-analytics-uts](https://github.com/NAxel-code/gitpulse-analytics-uts)
+
 <p align="center">
   <b>🌐 <a href="README.md">English</a> | <a href="README.id.md">Bahasa Indonesia</a></b>
 </p>
