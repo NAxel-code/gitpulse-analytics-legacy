@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **PROJECT MIGRATED & ARCHIVED**: This initial prototype has been completely upgraded and refactored into a production-grade multi-tier architecture with **Docker Compose, PostgreSQL 16, and FastAPI persistent caching**.
 >
-> 👉 **Active Repository & Maintained Version**: [https://github.com/NAxel-code/gitpulse-analytics-uts](https://github.com/NAxel-code/gitpulse-analytics-uts)
+> 👉 **Active Repository & Maintained Version**: [https://github.com/NAxel-code/gitpulse-analytics](https://github.com/NAxel-code/gitpulse-analytics)
 
 <p align="center">
   <b>🌐 <a href="README.md">English</a> | <a href="README.id.md">Bahasa Indonesia</a></b>
